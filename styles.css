@@ -12,4 +12,8 @@ p{
 input[type="search"]{
     vertical-align: top;
     background-color: royalblue;
+    position:absolute;
+    top:50%;
+    right:0;
+    left:0;
 }
