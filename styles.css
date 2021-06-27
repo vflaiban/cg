@@ -9,9 +9,6 @@ h2{
 p{
     text-align:justify;
 }
-input[type="search"]{
-    position:relative;
-    top:50%;
-    right:0;
-    left:0;
+input[type="icon"]{
+    vertical-align: bottom;
 }
