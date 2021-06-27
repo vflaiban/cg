@@ -26,3 +26,6 @@ form{
     text-decoration: underline wavy plum uppercase;
     font-weight: 100;
 }
+footer{
+    list-style-type: none;
+}
