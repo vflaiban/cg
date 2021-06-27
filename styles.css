@@ -5,6 +5,10 @@ h1 {
 }
 h1.title{
     letter-spacing: 5px;
+    text-align:center;
+}
+.menu{
+    text-align:center;
 }
 h2{
     color:black;
