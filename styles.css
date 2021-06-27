@@ -8,9 +8,9 @@ h1.title{
     text-align:center;
 }
 nav.menu ul li{
-    list-style-type: style center;
     text-align:center;
     list-style-type: none;
+    list-style-type: style center;
     display: inline;
 }
 h2{
