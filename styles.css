@@ -7,7 +7,7 @@ h1.title{
     letter-spacing: 5px;
     text-align:center;
 }
-.menu{
+nav.menu ul li{
     text-align:center;
     list-style-type: none;
     display: inline;
