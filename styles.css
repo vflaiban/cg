@@ -10,6 +10,7 @@ h1.title{
 .menu{
     text-align:center;
     list-style-type: none;
+    display: inline;
 }
 h2{
     color:black;
