@@ -1,6 +1,11 @@
 h1 {
     color:red;
+    text-align:center;
+    font-weight: lighter;
 }
 h2{
     color:black;
+}
+p{
+    text-align:justify;
 }
