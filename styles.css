@@ -9,3 +9,7 @@ h2{
 p{
     text-align:justify;
 }
+input[type="search"]{
+    vertical-align: top;
+
+}
