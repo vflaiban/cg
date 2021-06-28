@@ -37,7 +37,7 @@ footer{
     font-weight: bold;
     position: absolute;
     bottom: 0;
-    text-align:center;
+    align-items: center;
 }
 footer nav ul li{
     list-style-type: none;
