@@ -11,6 +11,9 @@ ul{
     text-align:center;
 }
 nav.menu ul li{
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0px 50px;
     list-style-type: none;
     list-style-type: style center;
     display: inline;
