@@ -11,15 +11,15 @@ ul{
     text-align:center;
 }
 nav.menu{
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     width: 100%;
 }
 nav.menu ul li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
-    font-size: 30px;
-    margin: 50px 50px;
+    font-size: 15px;
+    margin: 0px 50px;
     list-style-type: none;
     display: inline;
 }
