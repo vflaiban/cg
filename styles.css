@@ -16,9 +16,10 @@ nav.menu{
     width: 100%;
 }
 nav.menu ul li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     font-size: 30px;
-    margin: 0px 50px;
+    margin: 50px 50px;
     list-style-type: none;
     display: inline;
 }
