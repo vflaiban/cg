@@ -35,6 +35,8 @@ footer{
     background-color: red;
     color: white;
     font-weight: bold;
+    position: absolute;
+    bottom: 0;
 }
 footer nav ul li{
     
