@@ -20,9 +20,13 @@ nav.menu{
 nav.menu ul li{
     font-weight: bold;
     font-size: 15px;
-    margin: 0px 50px;
+    margin: 50px 50px 50px 50px;
     list-style-type: none;
     display: inline;
+}
+nav.menu ul li:hover{
+    background-color: red;
+    color: white;
 }
 h2{
     color:black;
@@ -58,5 +62,4 @@ input[type="search"]{
     background-color: black;
     color: yellow;
     font-weight:bolder;
-    
 }
