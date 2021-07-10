@@ -57,4 +57,5 @@ input[type="search"]{
     width: 300px;
     background-color: black;
     color: yellow;
+    font-weight:bolder;
 }
