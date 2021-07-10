@@ -52,3 +52,9 @@ footer nav ul li{
     display: inline;
     margin: 0px 50px;
 }
+
+input[type="search"]{
+    width: 300px;
+    background-color: black;
+    color: yellow;
+}
