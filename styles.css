@@ -11,30 +11,30 @@ h1.title{
 }
 ul{
     text-align:center;
+
 }
 
-nav.menu{
-    background-color: white;
+
+ul.menu{
+    background-color: rgb(165, 0, 0);
     color: black;
-    width: 100%;
+    padding: 15px;
 }
 
-nav ul{
-    height: 100px;
-}
-
-nav.menu ul li{
+ul.menu li{
     font-weight: bold;
-    font-size: 15px;
-    margin: 50px 50px 50px 50px;
+    font-size: 18px;
+    margin: 50px;
+    padding: 15px;
     list-style-type: none;
     display: inline;
 }
-nav.menu ul li:hover{
+ul.menu li:hover{
     background-color: red;
     color: white;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: black;
+    /*-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;*/
+    
 }
 h2{
     color:black;
