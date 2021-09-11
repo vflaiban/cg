@@ -1,6 +1,9 @@
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+body{
+    margin: 0;
+}
 h1 {
     color:rgb(165, 0, 0);
     text-align:center;
@@ -11,9 +14,7 @@ h1.title{
 }
 ul{
     text-align:center;
-
 }
-
 
 ul.menu{
     background-color: rgb(165, 0, 0);
@@ -25,13 +26,14 @@ ul.menu li{
     font-weight: bold;
     font-size: 18px;
     margin: 50px;
-    padding: 15px;
+    padding: 13px;
     list-style-type: none;
     display: inline;
 }
 ul.menu li:hover{
     background-color: red;
     color: white;
+    
     /*-webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;*/
     
@@ -46,7 +48,7 @@ img.icon{
     vertical-align: bottom;
 }
 form{
-    margin-bottom: 5px;
+    margin: 5px;
     text-decoration: underline wavy plum uppercase;
     font-weight: 100;
 }
