@@ -3,6 +3,7 @@
 }
 body{
     margin: 0;
+    display: flex;
 }
 
 form{
@@ -59,9 +60,17 @@ ul.menu li:hover{
 }
 
 .strange{
+    padding: 30px 50px;
+    margin-left:50px;
+    width: 500px;
+    background-color: palegoldenrod;
+    display:inline;
+}
+.strangeRR{
     padding: 50px;
     margin-left:50px;
-    /*margin-right: 1000px;*/
+    width: 500px;
+    display:inline;
 }
 footer{
     background-color: rgb(165, 0, 0);
